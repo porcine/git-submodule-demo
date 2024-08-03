@@ -1,0 +1,3 @@
+[submodule "awesomelibrary"]
+	path = awesomelibrary
+	url = https://github.com/porcine/awesomelibrary
